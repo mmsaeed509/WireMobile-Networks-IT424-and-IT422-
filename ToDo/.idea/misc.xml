@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ToDo/app/src/main/res/layout/activity_main.xml" value="0.17894736842105263" />
+        <entry key="..\:/ToDo/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/ToDo/app/src/main/res/layout/new_task.xml" value="0.264" />
+        <entry key="..\:/ToDo/app/src/main/res/layout/task_layout.xml" value="0.4" />
+        <entry key="..\:/ToDo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24259259259259258" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete.xml" value="0.24259259259259258" />
+        <entry key="app/src/main/res/drawable/ic_baseline_edit.xml" value="0.24259259259259258" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
